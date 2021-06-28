@@ -106,3 +106,5 @@ crashlytics-build.properties
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
+#firebase
+*.so filter=lfs diff=lfs merge=lfs -text
