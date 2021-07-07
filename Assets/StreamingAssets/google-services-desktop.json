@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768276627475",
+    "firebase_url": "https://testgameulu-default-rtdb.firebaseio.com",
+    "project_id": "testgameulu",
+    "storage_bucket": "testgameulu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768276627475:android:6d3c651e6b4b126b1cbfe6",
+        "android_client_info": {
+          "package_name": "com.testgame.testgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768276627475-pmr75e0mcpd756k8t9c2vviq8jk4q3fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6yecO9xtZF0TkjjvGIytCLqoESFC4NTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768276627475-pmr75e0mcpd756k8t9c2vviq8jk4q3fq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768276627475-dcpl8nin6u7rhblb3rumvtaga5m9dc2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testgame.testgame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
