@@ -44,6 +44,20 @@ Manages camera behavior using Cinemachine:
 - Cursor locking for better game control
 - Camera priority management
 
+Demo Videos (Couldnt find any videos for the recent ones) 
+# Multiplayer
+
+https://photos.app.goo.gl/hdSTUqzT3DSqA8nJ8
+
+https://photos.app.goo.gl/fJgU9NzSCnkatsfJ6
+
+https://photos.app.goo.gl/8LvcRZjQxkoFhNo1A
+
+# Place Holder
+# Day/Night Cycle
+# Sprinting and Fatigue
+# Health and Regen and PVP
+
 ## Firebase Integration
 
 ### Database Structure
