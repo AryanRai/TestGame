@@ -47,3 +47,6 @@ Manages camera behavior using Cinemachine:
 ## Firebase Integration
 
 ### Database Structure
+
+![image](https://github.com/user-attachments/assets/7f342d10-7a36-456f-a09f-839fca70b9bd)
+
